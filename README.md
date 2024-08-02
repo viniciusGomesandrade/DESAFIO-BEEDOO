@@ -1,6 +1,6 @@
 # DESAFIO-BEEDOO
 
-**ETAPA 1: 
+ETAPA 1: 
 
 Seu desafio deve ter:**
 
