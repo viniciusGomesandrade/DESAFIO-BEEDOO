@@ -53,5 +53,6 @@ Aspectos Técnicos:
 A implementação deve incluir verificações de autorização para garantir que apenas usuários com permissões adequadas possam criar, listar ou excluir cursos.
 
 # Links Úteis
+![image](https://github.com/user-attachments/assets/3719a7c3-6de9-40c1-ace2-cc111caec6ec)
 
 Etapa 2: https://docs.google.com/document/d/1quYWwfIRKoHC6FX7FN0dWfyVYErLv-t5j5U418TZpDw/edit?usp=sharing
