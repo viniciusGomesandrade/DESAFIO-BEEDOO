@@ -55,6 +55,6 @@ A implementação deve incluir verificações de autorização para garantir que
 # Links Úteis
 Etapa 1-Cenários e casos de testes: https://docs.google.com/spreadsheets/d/1aQ7stJE8MxMul9ROtlVThwuZhhef7iUf1Zm4ZyL5pzw/edit?usp=sharing 
 
-Etapa 2: https://docs.google.com/document/d/1quYWwfIRKoHC6FX7FN0dWfyVYErLv-t5j5U418TZpDw/edit?usp=sharing
+Etapa 2: https://docs.google.com/document/d/1sE_iTnIbyOLcbAIuLt6dLwYtrpHiiSLI/edit?usp=drive_link&ouid=111579259370446687516&rtpof=true&sd=true
 
 -Link do drive com evidências: https://drive.google.com/drive/folders/1P1lnMvOpJrJPd_i-VR8Au51noa4nANuG?usp=sharing
