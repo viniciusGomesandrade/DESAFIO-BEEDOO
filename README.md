@@ -58,3 +58,4 @@ Etapa 1-Cenários e casos de testes: https://docs.google.com/spreadsheets/d/1aQ7
 Etapa 2: https://docs.google.com/document/d/1sE_iTnIbyOLcbAIuLt6dLwYtrpHiiSLI/edit?usp=drive_link&ouid=111579259370446687516&rtpof=true&sd=true
 
 -Link do drive com evidências: https://drive.google.com/drive/folders/1P1lnMvOpJrJPd_i-VR8Au51noa4nANuG?usp=sharing
+-Link do relatório de bugs: https://docs.google.com/document/d/1kXeIv5SxdNfrLyr2r0_6jSAko47ZCzt8/edit?usp=sharing&ouid=111579259370446687516&rtpof=true&sd=true
